@@ -1,7 +1,7 @@
 ---
 title: "🚀 CTF Enigma: Capture The Flag Web Application 🛡️"
 date: 2024-10-27
-categories: [Projects, Cybersecurity]
+categories: [Projects]
 tags: [laravel, web application, ctf platform, security, php]
 ---
 
@@ -55,6 +55,15 @@ CTF Enigma can be used for:
 - **🛡️ Cybersecurity Training**: Perfect for enthusiasts, students, and professionals.
 - **🏁 Hosting CTF Competitions**: Great for schools, universities, and cybersecurity communities.
 - **🧩 Skill Development**: Practice problem-solving and vulnerability exploitation in a safe environment.
+
+---
+
+## 🔗 Access the Platform
+
+You can explore **CTF Enigma** here:  
+👉 [Visit the Platform](https://secops-ctf.com/?i=1)
+
+> Feel free to try out challenges, test your skills, and share feedback!
 
 ---
 

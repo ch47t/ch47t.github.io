@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D4E03AQHkRhhjzYrvug/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724531368247?e=1737590400&v=beta&t=GJyxS7edI4LVW2QhF5AJ9BUPQSAsst6QyfFJYRe4JXM
+avatar: https://github.com/ch47t/ch47t.github.io/tree/main/assets/images/profile/boogeyman.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

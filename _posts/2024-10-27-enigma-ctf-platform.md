@@ -1,6 +1,6 @@
 ---
 title: "🚀 CTF Enigma: Capture The Flag Web Application 🛡️"
-date: 2024-11-27
+date: 2024-10-27
 categories: [Projects, Cybersecurity]
 tags: [laravel, web application, ctf platform, security, php]
 ---

@@ -1,8 +1,8 @@
 ---
 title: "🚀 CTF Enigma: Capture The Flag Web Application 🛡️"
 date: 2024-11-27
-categories: [CTF Writeup]
-tags: [web, Cryptography, binary exploitation, Steganography, osint]
+categories: [Projects, Cybersecurity]
+tags: [laravel, web application, ctf platform, security, php]
 ---
 
 **Author:** CHAHAT Abdennour  

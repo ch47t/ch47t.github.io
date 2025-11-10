@@ -1,15 +1,26 @@
 ---
-title: Web Security Fundamentals
-subtitle: A comprehensive guide to understanding web vulnerabilities, security testing tools, and essential security concepts
-author: Boogeyman
-date: 2025-11-5
-categories: [Web Security, Pentesting, Burp Suite, Vulnerabilities]
-tags: [web-security, ssrf, idor, lfi, rce, burp-suite, hydra, reconnaissance]
-layout: post
-pin: false
----
+title: "Web Security Fundamentals"
+subtitle: "A comprehensive guide to understanding web vulnerabilities, security testing tools, and essential security concepts"
+author: "Boogeyman"
+date: "2025-11-05"
+layout: "post"
 
-{% include embed.html %}
+categories:
+  - Web Security
+  - Pentesting
+  - Burp Suite
+  - Vulnerabilities
+
+tags:
+  - web-security
+  - ssrf
+  - idor
+  - lfi
+  - rce
+  - burp-suite
+  - hydra
+  - reconnaissance
+---
 
 **Download the presentation (PPTX):** [Web Security Fundamentals — PPTX](./assets/files/web-security-fundamentals.pptx)
 

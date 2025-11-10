@@ -1,7 +1,7 @@
 ---
 title: "Web Security Fundamentals"
 subtitle: "A comprehensive guide to understanding web vulnerabilities, security testing tools, and essential security concepts"
-author: "Boogeyman"
+author: "CHAHAT Abdennour"
 date: "2025-11-05"
 layout: "post"
 

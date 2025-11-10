@@ -21,7 +21,7 @@ tags:
   - hydra
   - reconnaissance
 ---
-
+**Author:** CHAHAT Abdennour  
 **Download the presentation (PPTX):** [Web Security Fundamentals — PPTX](../assets/Web-Security-Fundamentals.pptx)
 
 # Learning Roadmap

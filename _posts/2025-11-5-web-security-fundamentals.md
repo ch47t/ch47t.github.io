@@ -22,7 +22,7 @@ tags:
   - reconnaissance
 ---
 
-**Download the presentation (PPTX):** [Web Security Fundamentals — PPTX](./assets/web-security-fundamentals.pptx)
+**Download the presentation (PPTX):** [Web Security Fundamentals — PPTX](../assets/web-security-fundamentals.pptx)
 
 # Learning Roadmap
 

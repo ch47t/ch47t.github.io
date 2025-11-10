@@ -173,8 +173,8 @@ Hands-on labs recommended.
 **Happy hacking (ethically)!**  
 Remember: Only test systems you have explicit permission to penetrate.
 
-{% if page.comments %}
+
 <div class="comments">
-  {% include disqus.html %}
+  
 </div>
-{% endif %}
+
